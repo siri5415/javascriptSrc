@@ -1,0 +1,2 @@
+1.Implement conversion(coersion)
+2.Explitcit conversion : Number,String,Boolean
